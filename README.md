@@ -44,14 +44,14 @@ Getting Started:
 The meaning of each block value depends on how the board will be used in your project.
 
 Project Structure:
-BoardBuilder/
-|-- BoardBuilder.java
-|-- README.md
-|-- .gitignore
-|-- data/
-|   |__ .gitkeep
-|__ screenshots/
-    |__ .gitkeep
+        BoardBuilder/
+        |-- BoardBuilder.java
+        |-- README.md
+        |-- .gitignore
+        |-- data/
+        |   |__ .gitkeep
+        |__ screenshots/
+            |__ .gitkeep
 
 - BoardBuilder.java — Main application source code.
 - data/ — Stores saved boards and example JSON files.
